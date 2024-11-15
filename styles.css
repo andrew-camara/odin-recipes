@@ -1,0 +1,38 @@
+                /*me lovely stylesheet*/
+/*heading fonts*/
+h1, h2 {
+    font-family: "comic sans ms","times new roman", "serif";
+    color: rgba(0, 255, 38, 0.575);
+    font-weight: 100;
+    text-align: center;
+}
+.index-list, ul {
+    font-family: "brush script mt", "times new roman", "serif";
+    font-size: 24px;
+}
+/*text fonts*/
+p {
+    color: blue;
+background-color: black;
+}
+h2 {
+    text-align: left;
+    color: rgb(255, 0, 0);
+}
+ul {
+    font-size: 20px
+}
+ol {
+    font-family: "arial", sans-serif;
+    color: blue;
+    background-color: yellow;
+}
+/*image sizes*/
+.dahl-image {
+    height:"300";
+    width: "auto";
+}
+.chilli-image {
+    height: "230";
+    width: "auto";
+}
